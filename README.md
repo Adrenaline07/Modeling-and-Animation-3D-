@@ -14,23 +14,26 @@ Welcome to Faith's 3D Design Archive! This repository contains 3D designs, model
 - [License](#license)
 
 ## Introduction
-[Provide a brief introduction to your project, highlighting its goals, objectives, and any unique aspects.]
+### About the Tools
 
-## Design
-[Explain the process and methodologies used in the 3D design phase. Discuss any software tools, techniques, or considerations that were important in creating the models.]
+- **Autodesk Inventor**: As a professional mechanical engineer, Autodesk Inventor serves as my primary tool for creating detailed 3D models of complex machinery and mechanical components. Its robust parametric design capabilities allow for precise control over geometry, enabling the creation of intricate assemblies and mechanisms.
 
-## Animation
-[Describe the animation process, including how animations were created, keyframes, rigging, and any special effects or simulations involved.]
+- **Autodesk Fusion 360**: I mostly use this for more organic and conceptual designs, Autodesk Fusion 360 offers a seamless blend of parametric, direct, and freeform modeling techniques. This versatile tool is invaluable for exploring innovative design concepts and quickly iterating through design iterations, thanks to its integrated cloud-based collaboration features.
 
-## Usage
-[Provide instructions on how to view and interact with the 3D designs and animations. Include information on supported file formats, software requirements, and any recommended viewing tools.]
+- **AutoCAD**: As a cornerstone of computer-aided design (CAD), AutoCAD remains indispensable for creating precise 2D drawings and schematics. Whether drafting detailed plans or annotating technical drawings.
 
-## Contributing
-[Explain how others can contribute to the project, such as by providing feedback, suggesting improvements, or submitting new designs or animations. Include guidelines for contributing, such as file formats, naming conventions, and submission procedures.]
+### Project Scope
+
+Within this repository, you'll find a diverse range of projects spanning mechanical engineering design, machine design, product development, and architectural modeling. Each project demonstrates the application of Autodesk software in solving real-world engineering challenges, from conceptualization to final visualization.
+
+Whether you're a fellow engineer seeking inspiration, a student exploring the world of CAD, or an enthusiast curious about the intricacies of mechanical design, Faith's Designs aims to inspire, educate, and foster collaboration within the vibrant community of digital creators and innovators.
+
+Feel free to explore the repository, delve into the design process, and unleash your creativity with Autodesk's powerful suite of design tools.
+
 
 ## License
 [Specify the license under which your project is distributed. Include any relevant copyright information.]
 
 ## Contact
-[Provide contact information for questions, feedback, or collaboration opportunities.]
+contact info: ogunwoyefaitho@gmail.com
 
