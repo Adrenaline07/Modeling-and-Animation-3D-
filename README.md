@@ -32,7 +32,7 @@ Feel free to explore the repository, delve into the design process, and unleash 
 
 
 ## License
-[Specify the license under which your project is distributed. Include any relevant copyright information.]
+
 
 ## Contact
 contact info: ogunwoyefaitho@gmail.com
